@@ -18,7 +18,7 @@
 
 ## Screenshots
 
-<img width="432" height="432" alt="Roi_calc_pic" src="https://github.com/user-attachments/assets/918ce853-3bba-4405-8491-28a710aa72a8" />
+![ROI Calculator UI](Roi_calc_pic.png)
 
 ---
 
