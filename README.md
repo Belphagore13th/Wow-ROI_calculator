@@ -18,7 +18,7 @@
 
 ## Screenshots
 
-![ROI Calculator UI](Roi_calc_pic.png)
+![ROI Calculator UI](Roi_calc_pic.PNG)
 
 ---
 
